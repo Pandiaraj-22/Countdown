@@ -1,5 +1,5 @@
 # Countdown
-this site is a callback hell countdown
+This site is a callback hell countdown
 
 ☆ JAVASCRIPT
 
